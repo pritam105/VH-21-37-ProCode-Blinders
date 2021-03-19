@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2196F3</color>
+    <color name="colorPrimaryDark">#1976D2</color>
+    <color name="primary_light">#BBDEFB</color>
+    <color name="colorAccent">#FFC107</color>
+    <color name="colorAccentDark">#d84315</color>
+    <color name="primary_text">#212121</color>
+    <color name="secondary_text">#757575</color>
+    <color name="icons">#212121</color>
+    <color name="divider">#BDBDBD</color>
+
+    <color name="textColorPrimary">#FFFFFF</color>
+
+    <color name="splash_background">#3acfc5</color>
+    <color name="splash_background_dark">#135e5a</color>
+    <color name="indicator">#bec7e6</color>
+    <color name="colorBackground">#413e4f</color>
+    <color name="colorText">#FFFFFF</color>
+    <color name="colorTextHint">#51d8c7</color>
+
+    <color name="background_color">#092956</color>
+    <color name="translucent">#3A5378</color>
+
+
+    <color name="widget_darkTheme_colorBackground">#fa202020</color>
+    <color name="widget_darkTheme_textColorPrimary">#FFFFFF</color>
+    <color name="widget_darkTheme_window_colorBackground">#009688</color>
+
+    <color name="widget_lightTheme_colorBackground">#f5e7e7e7</color>
+    <color name="widget_lightTheme_textColorPrimary">#000000</color>
+    <color name="widget_lightTheme_window_colorBackground">#009688</color>
+
+    <color name="widget_transparentTheme_colorBackground">#00e7e7e7</color>
+    <color name="widget_transparentTheme_textColorPrimary">#FFFFFF</color>
+    <color name="widget_transparentTheme_window_colorBackground">#00e7e7e7</color>
+
+    <color name="swipe_red">#df5e65</color>
+    <color name="swipe_green">#42c25e</color>
+    <color name="swipe_blue">#4447da</color>
+
+
+</resources>

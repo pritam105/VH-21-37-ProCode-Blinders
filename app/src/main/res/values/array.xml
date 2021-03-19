@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <string-array name="Colors">
+<!--        <item>#00AFB5</item>-->
+<!--        <item>#FCFF6C</item>-->
+<!--        <item>#FF7700</item>-->
+<!--        <item>#A30000</item>-->
+        <item>#2196F3</item>
+        <item>#1C2321</item>
+        <item>#DA4167</item>
+        <item>#FF5722</item>
+<!--        <item>#083D77</item>-->
+    </string-array>
+
+
+    <string-array name="States">
+        <item>Select State</item>
+        <item>A &amp; N ISLANDS</item>
+        <item>ANDHRA PRADESH</item>
+        <item>ARUNACHAL PRADESH</item>
+        <item>ASSAM</item>
+        <item>BIHAR</item>
+        <item>CHANDIGARH</item>
+        <item>CHHATTISGARH</item>
+        <item>D &amp; N HAVELI</item>
+        <item>DELHI</item>
+        <item>GOA</item>
+        <item>GUJARAT</item>
+        <item>HARYANA</item>
+        <item>HIMACHAL PRADESH</item>
+        <item>JAMMU &amp; KASHMIR</item>
+        <item>JHARKHAND</item>
+        <item>KARNATAKA</item>
+        <item>KERALA</item>
+        <item>MADHYA PRADESH</item>
+        <item>MAHARASHTRA</item>
+        <item>MANIPUR</item>
+        <item>MEGHALYA</item>
+        <item>MIZORAM</item>
+        <item>NAGALAND</item>
+        <item>ORISSA</item>
+        <item>PONDICHERRY</item>
+        <item>PUNJAB</item>
+        <item>RAJASTHAN</item>
+        <item>SIKKIM</item>
+        <item>TAMIL NADU</item>
+        <item>TRIPURA</item>
+        <item>UTTAR PRADESH</item>
+        <item>UTTARANCHAL</item>
+        <item>WEST BENGAL</item>
+    </string-array>
+
+    <string-array name="state_links">
+
+        <item>	http://agri.and.nic.in </item>
+        <item>http://www.apagrisnet.gov.in</item>
+        <item>	http://arunachalpradesh.nic.in</item>
+        <item>http://www.agriassam.in</item>
+        <item>http://krishi.bih.nic.in</item>
+        <item>	http://agripb.gov.in</item>
+        <item>http://agridept.cg.gov.in</item>
+        <item>	http://www.dnh.nic.in/Departments/Agriculture.aspx</item>
+        <item>http://agricoop.nic.in/</item>
+        <item>http://agri.goa.gov.in</item>
+        <item>https://agri.gujarat.gov.in/</item>
+        <item>	http://agriharyana.nic.in/</item>
+        <item>http://www.hpagriculture.com/</item>
+        <item>	http://www.jkapd.nic.in/</item>
+        <item>	http://www.jharkhand.gov.in/agri</item>
+        <item>	http://raitamitra.kar.nic.in/KAN/index.asp</item>
+        <item>	http://www.keralaagriculture.gov.in/</item>
+        <item>	http://mpkrishi.mp.gov.in/</item>
+        <item>	http://www.mahaagri.gov.in/</item>
+        <item>	http://mastec.nic.in/About_agriculture.htm</item>
+        <item>http://www.megagriculture.gov.in/</item>
+        <item>http://agriculturemizoram.nic.in/</item>
+        <item>http://agringl.nic.in/</item>
+        <item>	http://agriodisha.nic.in/</item>
+        <item>http://agri.puducherry.gov.in/</item>
+        <item>	http://agripb.gov.in/</item>
+        <item>http://agriculture.rajasthan.gov.in/</item>
+        <item>	http://www.sikkimagrisnet.org</item>
+        <item>http://www.tn.gov.in/department/2</item>
+        <item>	http://agri.tripura.gov.in/</item>
+        <item>	http://agriculture.up.nic.in/</item>
+        <item>	http://agriculture.uk.gov.in/</item>
+        <item>	http://www.wbagrisnet.gov.in/</item>
+
+    </string-array>
+
+    <string-array name="District">
+        <item>Select District</item>
+    </string-array>
+
+    <string-array name="Crop">
+        <item>Select Crop</item>
+    </string-array>
+
+    <string-array name="State_market">
+        <item>Select State</item>
+       <item>Andaman and Nicobar </item>
+        <item> Andhra Pradesh      </item>
+        <item> Assam               </item>
+        <item> Bihar               </item>
+        <item> Chandigarh          </item>
+        <item> Chattisgarh         </item>
+        <item> Goa                 </item>
+        <item> Gujarat             </item>
+        <item> Haryana             </item>
+        <item> Himachal Pradesh    </item>
+        <item> Jammu and Kashmir   </item>
+        <item> Jharkhand           </item>
+        <item> Karnataka           </item>
+        <item> Kerala              </item>
+        <item> Madhya Pradesh      </item>
+        <item> Maharashtra         </item>
+        <item> Manipur             </item>
+        <item> Meghalaya           </item>
+        <item> Mizoram             </item>
+        <item> NCT of Delhi        </item>
+        <item> Orissa              </item>
+        <item> Pondicherry         </item>
+        <item> Punjab              </item>
+        <item> Rajasthan           </item>
+        <item> Tamil Nadu          </item>
+        <item> Telangana           </item>
+        <item> Tripura             </item>
+        <item> Uttar Pradesh       </item>
+        <item> Uttrakhand          </item>
+        <item> West Bengal </item>
+    </string-array>
+
+    <string-array name="Days">
+        <item>Today</item>
+        <item>Yesterday</item>
+        <item>Day before Yesterday</item>
+    </string-array>
+
+
+    <string-array name="pref_temperature_entries" translatable="false">
+        <item>°C</item>
+        <item>°F</item>
+    </string-array>
+    <string-array name="pref_temperature_values" translatable="false">
+        <item>metric</item>
+        <item>imperial</item>
+    </string-array>
+
+    <string-array name="notification_refresh_intervals_entries">
+        <item>@string/update_period_15min</item>
+        <item>@string/update_period_30min</item>
+        <item>@string/update_period_1hour</item>
+        <item>@string/update_period_3hours</item>
+        <item>@string/update_period_6hours</item>
+        <item>@string/update_period_12hours</item>
+        <item>@string/update_period_24hours</item>
+    </string-array>
+    <string-array name="notification_refresh_interval_values" translatable="false">
+        <item>15</item>
+        <item>30</item>
+        <item>60</item>
+        <item>180</item>
+        <item>360</item>
+        <item>720</item>
+        <item>1440</item>
+    </string-array>
+
+    <string-array name="widget_update_period_entries">
+        <item>@string/update_period_15min</item>
+        <item>@string/update_period_30min</item>
+        <item>@string/update_period_1hour</item>
+        <item>@string/update_period_3hours</item>
+        <item>@string/update_period_6hours</item>
+        <item>@string/update_period_12hours</item>
+        <item>@string/update_period_24hours</item>
+    </string-array>
+    <string-array name="widget_update_period_values" translatable="false">
+        <item>15</item>
+        <item>30</item>
+        <item>60</item>
+        <item>180</item>
+        <item>360</item>
+        <item>720</item>
+        <item>1440</item>
+    </string-array>
+
+    <string-array name="widget_theme_entries">
+        <item>@string/theme_dark</item>
+        <item>@string/theme_light</item>
+        <item>@string/theme_transparent</item>
+    </string-array>
+    <string-array name="widget_theme_values" translatable="false">
+        <item>dark</item>
+        <item>light</item>
+        <item>transparent</item>
+    </string-array>
+
+    <!-- Wind directions array -->
+    <string-array name="wind_directions">
+        <item>@string/wind_direction_north</item>
+        <item>@string/wind_direction_north_east</item>
+        <item>@string/wind_direction_east</item>
+        <item>@string/wind_direction_south_east</item>
+        <item>@string/wind_direction_south</item>
+        <item>@string/wind_direction_south_west</item>
+        <item>@string/wind_direction_west</item>
+        <item>@string/wind_direction_north_west</item>
+    </string-array>
+    <string-array name="wind_direction_arrows" translatable="false">
+        <item name="n">&#xf058;</item>
+        <item name="ne">&#xf057;</item>
+        <item name="e">&#xf04d;</item>
+        <item name="se">&#xf088;</item>
+        <item name="s">&#xf044;</item>
+        <item name="sw">&#xf043;</item>
+        <item name="w">&#xf048;</item>
+        <item name="nw">&#xf087;</item>
+    </string-array>
+
+    <!-- Languages array -->
+    <string-array name="language_entries">
+        <item name="default">@string/pref_language_default</item>
+        <item name="english">English</item>
+        <item name="basque">Euskara (Basque)</item>
+        <item name="belarusian">Беларуская (Belarusian)</item>
+        <item name="catalan">Català (Catalan)</item>
+        <item name="czech">Čeština (Czech)</item>
+        <item name="french">Français (French)</item>
+        <item name="italian">Italiano (Italian)</item>
+        <item name="german">Deutsch (German)</item>
+        <item name="spanish">Español (Spanish)</item>
+        <item name="japanese">日本語 (Japanese)</item>
+        <item name="polish">Polski (Polish)</item>
+        <item name="russian">Русский (Russian)</item>
+        <item name="turkish">Türkçe (Turkish)</item>
+    </string-array>
+    <string-array name="language_values">
+        <item name="default"></item>
+        <item name="english">en</item>
+        <item name="basque">eu</item>
+        <item name="belarusian">be</item>
+        <item name="catalan">ca</item>
+        <item name="czech">cs</item>
+        <item name="french">fr</item>
+        <item name="italian">it</item>
+        <item name="german">de</item>
+        <item name="spanish">es</item>
+        <item name="japanese">ja</item>
+        <item name="polish">pl</item>
+        <item name="russian">ru</item>
+        <item name="turkish">tr</item>
+    </string-array>
+
+    <!--&lt;!&ndash; Themes array &ndash;&gt;
+    <string-array name="theme_entries">
+        <item name="light">@string/theme_light</item>
+        <item name="dark">@string/theme_dark</item>
+    </string-array>-->
+
+</resources>
